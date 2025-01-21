@@ -1,4 +1,4 @@
-# Music-Master-NFT-
+# Music-Master-NFT
 
 This Solidity smart contract, MasterOwnershipNFT, is an ERC-721 (NFT) contract that represents fractional ownership of a music master (or other assets) with built-in revenue distribution and royalty tracking. Here's a breakdown of its key features and functionalities:
 
